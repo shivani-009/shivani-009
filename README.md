@@ -2,7 +2,7 @@
 
 ### Java Developer | Full-Stack Developer | Gen AI | Backend Development
 
-<img align="right" width="300" alt="Coding Animation" src="./logo.gif" />
+<img align="right" width="400" alt="Coding Animation" src="./logo.gif" />
 
 - 🔭 I’m currently building **Full Stack & Backend Projects**
 
@@ -22,10 +22,7 @@
 
 ### Connect with me :)
 
-### Connect with me :)
-
-<p align="center">
-
+<p align="left">
 <a href="https://www.linkedin.com/in/shivani-vishwakarma-3272b6289/">
   <img src="./linked.gif" width="70"/>
 </a>
@@ -37,11 +34,6 @@
 <a href="mailto:sv723596@gmail.com">
   <img src="./email.gif" width="70"/>
 </a>
-
-<a href="https://portfolio-eta-inky-g8san0uq87.vercel.app/">
-  <img src="./logo.gif" width="70"/>
-</a>
-
 </p>
 
 ### Languages and Tools:
@@ -66,15 +58,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Java+Developer;Full+Stack+Developer;GenAI+Enthusiast;Building+Real+World+Projects" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivani-009&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=tokyonight" />
 </p>
 
