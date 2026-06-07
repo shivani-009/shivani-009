@@ -31,7 +31,9 @@
 
 ## 👩‍💻 About Me
 
-javascript
+## 👩‍💻 About Me
+
+```javascript
 const shivani = {
   name: "Shivani Vishwakarma",
   role: "B.Tech CSE Student",
@@ -41,7 +43,7 @@ const shivani = {
   goal: "Software Engineer at Microsoft",
   hobbies: ["Coding", "Music", "Learning New Tech"]
 };
-
+```
 ---
 
 ## 🚀 Featured Projects
