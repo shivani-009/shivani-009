@@ -1,28 +1,58 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Shivani Vishwakarma
 
-<h3 align="center"> 🚀 Java Developer | Full Stack Developer | GenAI Enthusiast </h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Learner;Backend+Developer;GenAI+Enthusiast;Future+Microsoft+Engineer" /> </p> <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> ### 👩‍💻 About Me - 🔭 Building **Full Stack & Backend Projects** - 🌱 Learning **Spring Boot, Redis, Docker & GenAI** - 👯 Open to collaborate on **Java & MERN Projects** - 🎯 Goal: **Software Engineer at Microsoft** - 📫 Email: **sv723596@gmail.com** - 🌐 Portfolio: **https://portfolio-eta-inky-g8san0uq87.vercel.app/** <br>
+### Java Developer | Full-Stack Developer | Gen AI | Backend Development
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 I’m currently building **Full Stack & Backend Projects**
+
+- 🌱 I’m currently learning **Spring Boot, Redis, Docker, Gen AI**
+
+- 👯 I’m looking to collaborate on **Java, MERN & GenAI Projects**
+
+- 👨‍💻 Explore my portfolio: [portfolio](https://portfolio-eta-inky-g8san0uq87.vercel.app/)
+
+- 📫 How to reach me: **sv723596@gmail.com**
+
+- 🎯 My goal: **Software Engineer at Microsoft**
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
---- 
+### Connect with me :)
 
-## 🤝 Connect With Me <p align="left"> <a href="https://www.linkedin.com/in/shivani-vishwakarma-3272b6289/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://x.com/ShivaniVish_"> <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:sv723596@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://portfolio-eta-inky-g8san0uq87.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivani-vishwakarma-3272b6289/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://x.com/ShivaniVish_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="mailto:sv723596@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
 ### Languages and Tools:
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,mongodb,mysql,redis,docker,git,github,html,css,vscode,postman"/> </p> 
-
---- 
-
-## 🚀 Featured Projects | Project | Tech Stack | 
-
-|----------|------------| 
-
-| 🤖 My Gemini | HTML, CSS, JS, Gemini API | | ⚡ Traffic Control Gateway | Java, Spring Boot, Redis | | 🌐 Portfolio Website | HTML, CSS, JS, Vercel | | 📚 Tutor Finder | Node.js, Express, MongoDB | 
-
----
+<p align="left">
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="45"/></a>
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="45"/></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="45"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>
+  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
