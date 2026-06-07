@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-```js
+
 const shivani = {
   role: "B.Tech CSE Student",
   focus: ["Java", "DSA", "Full Stack Development", "GenAI"],
@@ -56,4 +56,4 @@ Improving portfolio and GitHub profile
 🌐 Connect With Me
 <p align="center"> <a href="https://portfolio-eta-inky-g8san0uq87.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" /> </a> <a href="https://x.com/ShivaniVish_"> <img src="https://img.shields.io/badge/Twitter/X-ShivaniVish_-black?style=for-the-badge&logo=x" /> </a> <a href="mailto:sv723596@gmail.com"> <img src="https://img.shields.io/badge/Gmail-sv723596@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </p> 
