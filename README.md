@@ -28,22 +28,7 @@
 
 ## 👩‍💻 About Me
 
-
-## 👩‍💻 About Me
-
-## 👩‍💻 About Me
-
-```javascript
-const shivani = {
-  name: "Shivani Vishwakarma",
-  role: "B.Tech CSE Student",
-  location: "India",
-  skills: ["Java", "Spring Boot", "Node.js", "MongoDB"],
-  learning: ["Docker", "Redis", "System Design", "GenAI"],
-  goal: "Software Engineer at Microsoft",
-  hobbies: ["Coding", "Music", "Learning New Tech"]
-};
-```
+const shivani = { role: "B.Tech CSE Student", focus: ["Java", "DSA", "Full Stack Development", "GenAI"], currentlyLearning: ["Spring Boot", "Docker", "Redis", "System Design"], dreamCompany: "Microsoft", motto: "Build real-world projects. Learn daily. Never stop improving." };
 ---
 
 ## 🚀 Featured Projects
