@@ -24,16 +24,13 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shivani-vishwakarma-3272b6289/">
-  <img src="./linked.gif" width="70"/>
+  <img src="./linkedin.gif" width="70"/>
 </a>
 
 <a href="https://x.com/ShivaniVish_">
-  <img src="./twiter.gif" width="70"/>
+  <img src="./tt.gif" width="70"/>
 </a>
 
-<a href="mailto:sv723596@gmail.com">
-  <img src="./email.gif" width="70"/>
-</a>
 </p>
 
 ### Languages and Tools:
@@ -59,7 +56,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Java+Developer;Full+Stack+Developer;GenAI+Enthusiast;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&width=900&lines=Java+Developer;Full+Stack+Developer;GenAI+Enthusiast;Building+Real+World+Projects" />
 </p>
 
 <p align="left">
@@ -81,6 +78,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=120&section=footer" />
 </p>
