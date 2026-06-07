@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **sv723596@gmail.com**
 
-- 🎯 My goal: **Software Engineer at Microsoft**
+- 🎯 My goal: **Software Engineer **
 
 <br>
 
@@ -68,6 +68,20 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivani-009&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-009&theme=tokyo-night&hide_border=true" />
+</p>
 
 ### Featured Projects
 
