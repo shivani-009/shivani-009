@@ -31,7 +31,8 @@
     <img src="[https://skillicons.dev/icons?i=twitter](https://dribbble.com/shots/1167144--GIF-Twitter-Bird)" height="40" />
   </a>
   <a href="mailto:sv723596@gmail.com" target="_blank">
-    <img src="[https://skillicons.dev/icons?i=gmail](https://dribbble.com/shots/3074660-Gmail-for-iOS-Animated-Icon)" height="40" />
+  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3d5cbab7-80d1-499b-b656-4e02c2eaf159" />
+" height="40" />
   </a>
 </p>
 
