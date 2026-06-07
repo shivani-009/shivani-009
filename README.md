@@ -2,7 +2,8 @@
 
 ### Java Developer | Full-Stack Developer | Gen AI | Backend Development
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img width="300" height="234" alt="image" src="https://github.com/user-attachments/assets/bdd3a744-d52c-4300-a634-25b2b2de7ae0" />
+">
 
 - 🔭 I’m currently building **Full Stack & Backend Projects**
 
@@ -24,13 +25,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivani-vishwakarma-3272b6289/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="[https://skillicons.dev/icons?i=linkedin](https://dribbble.com/shots/1541997-LinkedIn-logo-animation)" height="40" />
   </a>
   <a href="https://x.com/ShivaniVish_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+    <img src="[https://skillicons.dev/icons?i=twitter](https://dribbble.com/shots/1167144--GIF-Twitter-Bird)" height="40" />
   </a>
   <a href="mailto:sv723596@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="[https://skillicons.dev/icons?i=gmail](https://dribbble.com/shots/3074660-Gmail-for-iOS-Animated-Icon)" height="40" />
   </a>
 </p>
 
