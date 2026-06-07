@@ -2,8 +2,7 @@
 
 ### Java Developer | Full-Stack Developer | Gen AI | Backend Development
 
-<img width="300" height="234" alt="image" src="https://github.com/user-attachments/assets/bdd3a744-d52c-4300-a634-25b2b2de7ae0" />
-">
+<img align="right" width="300" alt="Coding Animation" src="https://github.com/user-attachments/assets/bdd3a744-d52c-4300-a634-25b2b2de7ae0" />
 
 - 🔭 I’m currently building **Full Stack & Backend Projects**
 
@@ -25,14 +24,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivani-vishwakarma-3272b6289/" target="_blank">
-    <img src="[https://skillicons.dev/icons?i=linkedin](https://dribbble.com/shots/1541997-LinkedIn-logo-animation)" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+
   <a href="https://x.com/ShivaniVish_" target="_blank">
-    <img src="[https://skillicons.dev/icons?i=twitter](https://dribbble.com/shots/1167144--GIF-Twitter-Bird)" height="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
+
   <a href="mailto:sv723596@gmail.com" target="_blank">
-  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3d5cbab7-80d1-499b-b656-4e02c2eaf159" />
-" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+
+  <a href="https://portfolio-eta-inky-g8san0uq87.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" />
   </a>
 </p>
 
