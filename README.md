@@ -23,15 +23,23 @@
 ### Connect with me :)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivani-vishwakarma-3272b6289/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://x.com/ShivaniVish_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-  </a>
-  <a href="mailto:sv723596@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+
+<a href="https://www.linkedin.com/in/shivani-vishwakarma-3272b6289/" target="_blank">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
+</a>
+
+<a href="https://x.com/ShivaniVish_" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="50"/>
+</a>
+
+<a href="mailto:sv723596@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50"/>
+</a>
+
+<a href="https://portfolio-eta-inky-g8san0uq87.vercel.app/">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="50"/>
+</a>
+
 </p>
 
 ### Languages and Tools:
