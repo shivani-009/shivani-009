@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
 ### Connect with me :)
 
@@ -53,7 +53,7 @@
   <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&width=900&lines=Java+Developer;Full+Stack+Developer;GenAI+Enthusiast;Building+Real+World+Projects" />
@@ -67,7 +67,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=tokyonight" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
 ## 📊 GitHub Analytics
 
@@ -90,9 +90,6 @@
 - 🌐 **Portfolio Website** — Personal portfolio deployed on Vercel  
 - 📚 **Tutor Finder Website** — Location-based tutor search platform  
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=timeGradient"/>
+<p align="left">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=120&section=footer" />
 </p>
-<!-- <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=120&section=footer" />
-</p> -->
