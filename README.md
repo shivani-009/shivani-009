@@ -72,9 +72,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivani-009&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shivani-009&show_icons=true&theme=radical&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ## 📈 Contribution Graph
@@ -90,8 +90,9 @@
 - 🌐 **Portfolio Website** — Personal portfolio deployed on Vercel  
 - 📚 **Tutor Finder Website** — Location-based tutor search platform  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=120&section=footer" />
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=timeGradient"/>
 </p>
+<!-- <p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=120&section=footer" />
+</p> -->
