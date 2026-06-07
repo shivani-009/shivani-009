@@ -28,7 +28,27 @@
 
 ## 👩‍💻 About Me
 
-const shivani = { role: "B.Tech CSE Student", focus: ["Java", "DSA", "Full Stack Development", "GenAI"], currentlyLearning: ["Spring Boot", "Docker", "Redis", "System Design"], dreamCompany: "Microsoft", motto: "Build real-world projects. Learn daily. Never stop improving." };
+```java
+public class Shivani {
+
+    String role = "Java Developer";
+    String education = "B.Tech CSE";
+    String goal = "Software Engineer at Microsoft";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Node.js",
+        "MongoDB",
+        "GenAI"
+    };
+
+    public void sayHello() {
+        System.out.println("Welcome to my GitHub Profile 🚀");
+    }
+}
+```
+
 ---
 
 ## 🚀 Featured Projects
