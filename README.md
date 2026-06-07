@@ -71,10 +71,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivani-009&show_icons=true&theme=radical&cache_seconds=1800" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivani-009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=radical&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph
