@@ -69,13 +69,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
 
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivani-009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 📈 Contribution Graph
 
