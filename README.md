@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Java, MERN & GenAI Projects**
 
-- 👨‍💻 Explore my portfolio: [portfolio](https://my-portfolio-xii-seven-84.vercel.app/) //remove--xii--to--xi
+- 👨‍💻 Explore my portfolio: [portfolio](https://my-portfolio-xii-seven-84.vercel.app/_//remove--xii--to--xi) 
 
 - 📫 How to reach me: **sv723596@gmail.com**
 
