@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Shivani Vishwakarma</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Shivani Vishwakarma</h1>
 
-<h3 align="center">Java Developer | Full-Stack Developer | Gen AI | Backend Development</h3>
+<h3 align="left">Java Developer | Full-Stack Developer | Gen AI | Backend Development</h3>
 
 <img align="right" width="400" alt="Coding Animation" src="./logo.gif" />
 
@@ -57,7 +57,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&width=900&lines=Java+Developer;Full+Stack+Developer;GenAI+Enthusiast;Building+Real+World+Projects" alt="Typing animation"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=shivani-009&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 </p>
 
@@ -65,7 +65,7 @@
 
 <h3>🐍 Snake eating my contributions</h3>
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivani-009/shivani-009/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivani-009/shivani-009/output/github-contribution-grid-snake.svg" />
