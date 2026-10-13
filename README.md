@@ -57,9 +57,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&width=900&lines=Java+Developer;Full+Stack+Developer;GenAI+Enthusiast;Building+Real+World+Projects" alt="Typing animation"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivani-009&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivani-009&layout=compact&theme=tokyonight" alt="Top languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shivani-009&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" />
